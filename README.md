@@ -19,13 +19,9 @@ A structured collection of SQL queries and practice problems covering fundamenta
 ```
 sql-interview-practice/
 │
-├── 01_Basics/
-├── 02_Joins/
-├── 03_Subqueries/
-├── 04_Window_Functions/
-├── 05_Case_Studies/
-├── 06_Practice_Sets/
-└── README.md
+├── SQL
+├── README.md
+├── datasets.csv(all datasets used in queries)
 ```
 
 ## Skills Demonstrated
