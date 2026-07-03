@@ -1,0 +1,13 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,70000
+102,Mobile,Electronics,30000
+103,Tablet,Electronics,25000
+104,Headphones,Accessories,2000
+105,Shoes,Fashion,4000
+106,Watch,Fashion,8000
+107,Backpack,Accessories,1500
+108,Keyboard,Electronics,1200
+109,Mouse,Electronics,800
+110,T-shirt,Fashion,1000
+111,Jeans,Fashion,2500
+112,Charger,Accessories,600
